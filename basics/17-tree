@@ -1,2 +1,2 @@
 #!/bin/bash
-ptdrr
+mkdir -p welcome/to/school
