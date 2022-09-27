@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "(Ôo)'
+PS1="(Ôo)"
